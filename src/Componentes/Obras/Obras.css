@@ -1,0 +1,57 @@
+.container{
+  width: 30%;
+  display: inline;
+  float: left;
+  margin-left: 3%;
+  float: left;
+}
+
+
+.Obras {
+    border-radius: 15px;
+    box-shadow: 0px 0px 8px #ccc;
+    color: #253b56;
+    margin: 12px 0px;
+    padding: 4px 16px 20px 16px;
+    height: 450px;
+    width: 350px;
+    
+ 
+    
+    
+  }
+  .Obras img {
+    margin-top: 10px;
+    width: 250px;
+    height: 200px;
+    margin-left: 15%;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+  }
+  .headerObra {
+    height: 300px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+    
+
+  .description{
+    font-family: Avenir-Heavy;
+    font-size: 15px;
+    margin-left: 50px;
+    
+
+  }
+
+  .cartButton{
+    margin-left: 80px;
+    justify-content: center;
+    align-items: center;
+}
+  
+ 
